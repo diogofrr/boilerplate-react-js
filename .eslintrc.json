@@ -16,9 +16,9 @@
     "prettier"
   ],
   "rules": {
-    "indent": "error",
-    "prefer-arrow-callback": "warn",
+    "arrow-parens": "error",
     "arrow-body-style": "off",
+    "prefer-arrow-callback": "warn",
     "react/function-component-definition": [
       2,
       {
@@ -26,6 +26,10 @@
         "unnamedComponents": "arrow-function"
       }
     ],
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "indent": "error",
+    "eqeqeq": "warn",
+    "valid-jsdoc": "error",
+    "prefer-destructuring": "warn"
   }
 }

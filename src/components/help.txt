@@ -1,1 +1,1 @@
-Componentes gerais que poderam ser reutilizados em qualquer página da aplicação
+Componentes gerais que poderão ser reutilizados em qualquer página da aplicação
