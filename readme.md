@@ -8,8 +8,8 @@
 ## ❓O que possui?
 
 * **Vite:** É utilizado para criação de projetos react
-* **Eslint:** Auxilia e força uma correção sintaxe
-* **Prettier:** Auxilia na padronização e correção da aparência do código
+* **Eslint:** Auxilia na correção e padronização da sintaxe
+* **Prettier:** Auxilia na organização do código
 * **Prop-Types:** Exige uma tipagem das props passadas para os componentes
 * **Axios:** Facilita o trabalho de realizar requisições HTTP
 * **React-Router-Dom:** Permite a criação de rotas na aplicação
